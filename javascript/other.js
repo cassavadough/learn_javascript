@@ -1,1 +1,1 @@
-console.log("This is from the other JS file")
+// console.log("This is from the other JS file")
