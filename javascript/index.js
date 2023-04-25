@@ -45,3 +45,11 @@ function myFn(axz){
 };
 
 myFn(126, b);
+
+;(
+    function(a){
+        console.log("Hello");
+    }
+)() 
+
+//This would be executed
